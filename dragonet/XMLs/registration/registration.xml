@@ -1,0 +1,30 @@
+
+
+<profiler-questions>
+	<email>
+		please would you mind to tell me your email id
+	</email>
+
+	<password>
+		what is your password 
+	</password>
+
+	<first-name>
+		your firstname
+	</first-name>
+
+	<last-name>
+		your lastname
+	</last-name>
+
+	<mobile-number>
+		your mobile number
+	</mobile-number>
+
+	
+
+</profiler-questions>
+
+
+
+
